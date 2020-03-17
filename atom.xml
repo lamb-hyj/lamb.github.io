@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lamb-hyj.github.io/lamb.github.io</id>
     <title>Lamb&apos;s life</title>
-    <updated>2020-03-17T11:22:39.218Z</updated>
+    <updated>2020-03-17T11:24:13.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lamb-hyj.github.io/lamb.github.io"/>
     <link rel="self" href="https://lamb-hyj.github.io/lamb.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://lamb-hyj.github.io/lamb.github.io/images/avatar.png</logo>
     <icon>https://lamb-hyj.github.io/lamb.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Lamb&apos;s life</rights>
+    <entry>
+        <title type="html"><![CDATA[无中生有]]></title>
+        <id>https://lamb-hyj.github.io/lamb.github.io/post/wu-zhong-sheng-you/</id>
+        <link href="https://lamb-hyj.github.io/lamb.github.io/post/wu-zhong-sheng-you/">
+        </link>
+        <updated>2020-03-17T11:23:24.000Z</updated>
+        <content type="html"><![CDATA[<p><sub>O(∩_∩)O</sub></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有]]></title>
         <id>https://lamb-hyj.github.io/lamb.github.io/post/you/</id>
