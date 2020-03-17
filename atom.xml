@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lamb-hyj.github.io/lamb.github.io</id>
     <title>Lamb&apos;s life</title>
-    <updated>2020-03-17T11:20:42.696Z</updated>
+    <updated>2020-03-17T11:22:39.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lamb-hyj.github.io/lamb.github.io"/>
     <link rel="self" href="https://lamb-hyj.github.io/lamb.github.io/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://lamb-hyj.github.io/lamb.github.io/images/avatar.png</logo>
     <icon>https://lamb-hyj.github.io/lamb.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Lamb&apos;s life</rights>
+    <entry>
+        <title type="html"><![CDATA[有]]></title>
+        <id>https://lamb-hyj.github.io/lamb.github.io/post/you/</id>
+        <link href="https://lamb-hyj.github.io/lamb.github.io/post/you/">
+        </link>
+        <updated>2020-03-17T11:22:21.000Z</updated>
+        <content type="html"><![CDATA[<p>Ｏ(≧口≦)Ｏ</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无]]></title>
+        <id>https://lamb-hyj.github.io/lamb.github.io/post/wu/</id>
+        <link href="https://lamb-hyj.github.io/lamb.github.io/post/wu/">
+        </link>
+        <updated>2020-03-17T11:21:29.000Z</updated>
+        <content type="html"><![CDATA[<p>(づ￣3￣)づ╭❤～</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AHH  我就是用来测试的]]></title>
         <id>https://lamb-hyj.github.io/lamb.github.io/post/ahh-wo-jiu-shi-yong-lai-ce-shi-de/</id>
