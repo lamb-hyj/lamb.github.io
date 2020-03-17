@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lamb-hyj.github.io/lamb.github.io</id>
     <title>Lamb&apos;s life</title>
-    <updated>2020-03-17T05:26:37.427Z</updated>
+    <updated>2020-03-17T05:30:32.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lamb-hyj.github.io/lamb.github.io"/>
     <link rel="self" href="https://lamb-hyj.github.io/lamb.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://lamb-hyj.github.io/lamb.github.io/images/avatar.png</logo>
     <icon>https://lamb-hyj.github.io/lamb.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Lamb&apos;s life</rights>
+    <entry>
+        <title type="html"><![CDATA[AHH  我就是用来测试的]]></title>
+        <id>https://lamb-hyj.github.io/lamb.github.io/post/ahh-wo-jiu-shi-yong-lai-ce-shi-de/</id>
+        <link href="https://lamb-hyj.github.io/lamb.github.io/post/ahh-wo-jiu-shi-yong-lai-ce-shi-de/">
+        </link>
+        <updated>2020-03-16T08:52:11.000Z</updated>
+        <summary type="html"><![CDATA[<p>&amp;empst;&amp;empst; &lt;-if(there i</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>&amp;empst;&amp;empst; &lt;-if(there i</p>
+<!-- more -->
+<!-- more -->
+<p>s something)我自以为打对了空格  else Nothing...</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://lamb-hyj.github.io/lamb.github.io/post/hello-gridea/</id>
