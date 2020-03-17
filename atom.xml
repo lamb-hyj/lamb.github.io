@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lamb-hyj.github.io/lamb.github.io</id>
     <title>Lamb&apos;s life</title>
-    <updated>2020-03-17T08:11:43.018Z</updated>
+    <updated>2020-03-17T08:36:19.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lamb-hyj.github.io/lamb.github.io"/>
     <link rel="self" href="https://lamb-hyj.github.io/lamb.github.io/atom.xml"/>
@@ -40,8 +40,8 @@ color="122 103 238" opacity='0.7' zIndex="-2" count="200" src="//cdn.bootcss.com
 WIDGET = {ID: '306rjWiSde'};
 </script>
 <script type="text/javascript" src="https://apip.weatherdt.com/view/static/js/r.js?v=1111"></script> -->
-<p>😆  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<p>😆  欢迎使用 <em><strong>Gridea</strong></em> ！<br>
+✍️  <em><strong>Gridea</strong></em> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
 ]]></summary>
         <content type="html"><![CDATA[<!--动态线条背景-->
 <script type="text/javascript"
@@ -53,8 +53,8 @@ color="122 103 238" opacity='0.7' zIndex="-2" count="200" src="//cdn.bootcss.com
 WIDGET = {ID: '306rjWiSde'};
 </script>
 <script type="text/javascript" src="https://apip.weatherdt.com/view/static/js/r.js?v=1111"></script> -->
-<p>😆  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<p>😆  欢迎使用 <em><strong>Gridea</strong></em> ！<br>
+✍️  <em><strong>Gridea</strong></em> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
 <!-- more -->
 <p><a href="https://github.com/getgridea/gridea">Github</a><br>
 <a href="https://gridea.dev/">Gridea 主页</a><br>
@@ -97,7 +97,7 @@ WIDGET = {ID: '306rjWiSde'};
 </ol>
 <p>未来，它一定会成为你离不开的伙伴</p>
 <p>尽情发挥你的才华吧！</p>
-<p><sub>Enjoy</sub></p>
+<p>Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
