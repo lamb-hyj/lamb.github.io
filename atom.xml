@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lamb-hyj.github.io/lamb.github.io</id>
     <title>Lamb&apos;s life</title>
-    <updated>2020-03-18T05:18:44.333Z</updated>
+    <updated>2020-03-18T05:35:18.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lamb-hyj.github.io/lamb.github.io"/>
     <link rel="self" href="https://lamb-hyj.github.io/lamb.github.io/atom.xml"/>
@@ -48,75 +48,75 @@
         </tr>
         <tr>
             <th>7:30-8:00</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>起床|吃饭</th>
+            <th>2</th>
+            <th>不够早,没能准时上课</th>
         </tr>
         <tr>
             <th>8:00-8:30</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>吃饭|数学课</th>
+            <th>3</th>
+            <th>这次听课很认真</th>
         </tr>
         <tr>
             <th>8:30-9:00</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>数学课|课间</th>
+            <th>3</th>
+            <th>马马虎虎</th>
         </tr>
         <tr>
             <th>9:00-9:30</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>数学课</th>
+            <th>2</th>
+            <th>第二节数学课不够认真</th>
         </tr>
         <tr>
             <th>9:30-10:00</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>休息|师说</th>
+            <th>2.5</th>
+            <th>师说背的有点少吧</th>
         </tr>
         <tr>
             <th>10:00-10:30</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>语文课</th>
+            <th>3</th>
+            <th>由于做练习册,有一点笔记没做</th>
         </tr>
         <tr>
             <th>10:30-11:00</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>语文课|课间|吃东西</th>
+            <th>3</th>
+            <th>这老师真爱朗诵...</th>
         </tr>
         <tr>
             <th>11:00-11:30</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>语文课|研究博客</th>
+            <th>2</th>
+            <th>偷偷研究博客,不行</th>
         </tr>
         <tr>
             <th>11:30-12:00</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>ppball</th>
+            <th>3</th>
+            <th>差点实现legendary kill</th>
         </tr>
         <tr>
             <th>12:00-12:30</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>吃饭</th>
+            <th>2</th>
+            <th>吃太久了</th>
         </tr>
         <tr>
             <th>12:30-13:00</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>吃饭</th>
+            <th>2</th>
+            <th>同上↑</th>
         </tr>
         <tr>
             <th>13:00-13:30</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>日记</th>
+            <th>4</th>
+            <th>本来要写模拟的，不过效率挺高</th>
         </tr>
         <tr>
             <th>13:30-14:00</th>
