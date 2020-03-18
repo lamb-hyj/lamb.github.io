@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lamb-hyj.github.io/lamb.github.io</id>
     <title>Lamb&apos;s life</title>
-    <updated>2020-03-18T11:00:28.791Z</updated>
+    <updated>2020-03-18T12:28:40.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lamb-hyj.github.io/lamb.github.io"/>
     <link rel="self" href="https://lamb-hyj.github.io/lamb.github.io/atom.xml"/>
@@ -114,7 +114,7 @@
         </tr>
         <tr>
             <th>13:00-13:30</th>
-            <th>日记</th>
+            <th>写记录</th>
             <th>4</th>
             <th>本来要写模拟的，不过效率挺高</th>
         </tr>
@@ -168,39 +168,39 @@
         </tr>
         <tr>
             <th>17:30-18:00</th>
-            <th>补笔记|和松聊天|日记</th>
+            <th>补笔记|和松聊天|写记录</th>
             <th>3</th>
             <th>要背什么例句啊？？</th>
         </tr>
         <tr>
             <th>18:00-18:30</th>
-            <th></th>
-            <th></th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>18:30-19:00</th>
             <th>吃饭|ppball</th>
             <th>3</th>
             <th>吃的挺快</th>
         </tr>
         <tr>
-            <th>19:00-19:30</th>
-            <th>ppball|日记</th>
+            <th>18:30-19:00</th>
+            <th>ppball|写记录</th>
             <th>1</th>
             <th>太久了</th>
         </tr>
         <tr>
+            <th>19:00-19:30</th>
+            <th>看资讯</th>
+            <th>0</th>
+            <th>废了(~~我只看了亿点点~~)</th>
+        </tr>
+        <tr>
             <th>19:30-20:00</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>英语练习</th>
+            <th>2</th>
+            <th>慢</th>
         </tr>
         <tr>
             <th>20:00-20:30</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>英语练习|写记录</th>
+            <th>2</th>
+            <th>同上↑</th>
         </tr>
         <tr>
             <th>20:30-21:00</th>
