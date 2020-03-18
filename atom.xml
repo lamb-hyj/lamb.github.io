@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lamb-hyj.github.io/lamb.github.io</id>
     <title>Lamb&apos;s life</title>
-    <updated>2020-03-18T05:36:32.572Z</updated>
+    <updated>2020-03-18T05:38:46.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lamb-hyj.github.io/lamb.github.io"/>
     <link rel="self" href="https://lamb-hyj.github.io/lamb.github.io/atom.xml"/>
@@ -306,12 +306,16 @@ WIDGET = {ID: '306rjWiSde'};
 <p>未来，它一定会成为你离不开的伙伴</p>
 <p>尽情发挥你的才华吧！</p>
 <p>Enjoy~</p>
-<p>PS:可能用到的网页:<br>
+<p>PS:</p>
+<ol>
+<li>本文经过lamb稍微改动,官方不要介意啦(<s>不会的</s>)</li>
+<li>可能用到的网页:<br>
 <a href="https://www.luogu.com.cn/blog/luogu/how-to-use-markdown">洛谷Markdown使用手册</a><br>
 <a href="https://yq.aliyun.com/articles/742964?spm=a2c4e.11155472.0.0.65437baeTNS7YR">博客搭建教程</a><br>
 <a href="https://less.bootcss.com/">JavaScript教程</a><br>
 <a href="https://less.bootcss.com/">Less快速入门</a><br>
-<a href="https://www.jianshu.com/p/6ed2f9fb6197">ejs</a></p>
+<a href="https://www.jianshu.com/p/6ed2f9fb6197">ejs</a></li>
+</ol>
 ]]></content>
     </entry>
 </feed>
