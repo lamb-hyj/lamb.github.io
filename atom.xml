@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lamb-hyj.github.io/lamb.github.io</id>
     <title>Lamb&apos;s life</title>
-    <updated>2020-03-18T03:13:03.654Z</updated>
+    <updated>2020-03-18T03:24:27.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lamb-hyj.github.io/lamb.github.io"/>
     <link rel="self" href="https://lamb-hyj.github.io/lamb.github.io/atom.xml"/>
@@ -218,42 +218,6 @@
             <th></th>
         </tr>
 </table>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QAQ]]></title>
-        <id>https://lamb-hyj.github.io/lamb.github.io/post/qaq/</id>
-        <link href="https://lamb-hyj.github.io/lamb.github.io/post/qaq/">
-        </link>
-        <updated>2020-03-17T11:24:32.000Z</updated>
-        <content type="html"><![CDATA[<p><em>(:з」∠)</em></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[无中生有]]></title>
-        <id>https://lamb-hyj.github.io/lamb.github.io/post/wu-zhong-sheng-you/</id>
-        <link href="https://lamb-hyj.github.io/lamb.github.io/post/wu-zhong-sheng-you/">
-        </link>
-        <updated>2020-03-17T11:23:24.000Z</updated>
-        <content type="html"><![CDATA[<p><sub>O(∩_∩)O</sub></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有]]></title>
-        <id>https://lamb-hyj.github.io/lamb.github.io/post/you/</id>
-        <link href="https://lamb-hyj.github.io/lamb.github.io/post/you/">
-        </link>
-        <updated>2020-03-17T11:22:21.000Z</updated>
-        <content type="html"><![CDATA[<p>Ｏ(≧口≦)Ｏ</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[无]]></title>
-        <id>https://lamb-hyj.github.io/lamb.github.io/post/wu/</id>
-        <link href="https://lamb-hyj.github.io/lamb.github.io/post/wu/">
-        </link>
-        <updated>2020-03-17T11:21:29.000Z</updated>
-        <content type="html"><![CDATA[<p>(づ￣3￣)づ╭❤～</p>
-]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[demo]]></title>
