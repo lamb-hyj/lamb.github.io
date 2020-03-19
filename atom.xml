@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lamb-hyj.github.io/lamb.github.io</id>
     <title>Lamb&apos;s life</title>
-    <updated>2020-03-19T03:16:15.104Z</updated>
+    <updated>2020-03-19T04:31:01.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lamb-hyj.github.io/lamb.github.io"/>
     <link rel="self" href="https://lamb-hyj.github.io/lamb.github.io/atom.xml"/>
@@ -30,6 +30,10 @@
     <br>                         换行标签
 -->
 <p>  <em><strong>今日得分:XX</strong></em></p>
+<p>  清脆的鸟鸣划破清晨的薄雾，唤醒沉睡的wo，迎接新生的黎明。<br>
+  匆匆洗漱，但饭还没熟，只能看看数位DP了~话说大早上看这种费脑子的东西真的好吗(<s>脑子还没起床呢</s>)。<br>
+  清新的葱花炒蛋齿颊留香，时隔多日，我终于又可以在吃早饭的时候上课了，hhh。物理课总体吸收不错，新冠纪元以来，我的物理仿佛技术爆炸，(<s>作业都对考试全会</s>)不存在的。但的确感觉良好，也许是做题时有答案吧~。下课时问了两个问题，还被物理老师喊我名字：“小仙男同学，可以讲的清楚一点吗？”啊~尴尬.....英语课时而在线，时而神游，这该死的情态动词，would、could、should、might、may、can.......有什么区别啊，听不懂！！！！跟情态动词一样让人晕乎乎的就是《我的三体》了，看不懂！！！<br>
+  小智子，你是否有很多问号？？？</p>
 <p>附：时间表<br>
 (满分100，除特殊说明，每空3分)<br>
 5分时段:<br>
@@ -57,7 +61,7 @@
             <th>8:30-9:00</th>
             <th>物理课|课间|写记录</th>
             <th>2</th>
-            <th></th>
+            <th>有点混乱？</th>
         </tr>
         <tr>
             <th>9:00-9:30</th>
@@ -91,13 +95,13 @@
         </tr>
         <tr>
             <th>11:30-12:00</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>我的三体|吃饭</th>
+            <th>3</th>
+            <th>体验满分，但？？？</th>
         </tr>
         <tr>
             <th>12:00-12:30</th>
-            <th></th>
+            <th>写记录|</th>
             <th></th>
             <th></th>
         </tr>
