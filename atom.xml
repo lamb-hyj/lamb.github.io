@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lamb-hyj.github.io/lamb.github.io</id>
     <title>Lamb&apos;s life</title>
-    <updated>2020-03-20T03:54:57.138Z</updated>
+    <updated>2020-03-20T05:02:48.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lamb-hyj.github.io/lamb.github.io"/>
     <link rel="self" href="https://lamb-hyj.github.io/lamb.github.io/atom.xml"/>
@@ -16,11 +16,11 @@
         <link href="https://lamb-hyj.github.io/lamb.github.io/post/200320orunnamed/">
         </link>
         <updated>2020-03-20T02:10:06.000Z</updated>
-        <summary type="html"><![CDATA[<p>  天气:X                XXX   星期X<br>
-  农历X月X  XX</p>
+        <summary type="html"><![CDATA[<p>  天气:多云转晴               Fri    星期五<br>
+  农历二月廿七  春分</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>  天气:X                XXX   星期X<br>
-  农历X月X  XX</p>
+        <content type="html"><![CDATA[<p>  天气:多云转晴               Fri    星期五<br>
+  农历二月廿七  春分</p>
 <!-- more -->
 <!--
     可能要用到的代码
@@ -43,75 +43,75 @@
         </tr>
         <tr>
             <th>7:30-8:00</th>
-            <th></th>
-            <th>3</th>
-            <th></th>
+            <th>起床</th>
+            <th>1</th>
+            <th>极度不舒适</th>
         </tr>
         <tr>
             <th>8:00-8:30</th>
-            <th></th>
+            <th>吃饭|语文课</th>
             <th>3</th>
-            <th></th>
+            <th>边吃边看</th>
         </tr>
         <tr>
             <th>8:30-9:00</th>
-            <th></th>
+            <th>语文课|课间</th>
             <th>3</th>
-            <th></th>
+            <th>认真听讲</th>
         </tr>
         <tr>
             <th>9:00-9:30</th>
-            <th></th>
-            <th>3</th>
-            <th></th>
+            <th>语文课|偷写记录</th>
+            <th>1</th>
+            <th>不可以哦</th>
         </tr>
         <tr>
             <th>9:30-10:00</th>
-            <th></th>
-            <th>3</th>
-            <th></th>
+            <th>语文课|写记录</th>
+            <th>0</th>
+            <th>怎么可以这时候写</th>
         </tr>
         <tr>
             <th>10:00-10:30</th>
-            <th></th>
+            <th>数学课|做周练五</th>
             <th>3</th>
-            <th></th>
+            <th>有认真做</th>
         </tr>
         <tr>
             <th>10:30-11:00</th>
-            <th></th>
+            <th>数学课|做周练五|课间</th>
             <th>3</th>
-            <th></th>
+            <th>有认真做</th>
         </tr>
         <tr>
             <th>11:00-11:30</th>
-            <th></th>
-            <th>3</th>
-            <th></th>
+            <th>数学课|做周练五</th>
+            <th>1</th>
+            <th>没有认真</th>
         </tr>
         <tr>
             <th>11:30-12:00</th>
-            <th></th>
-            <th>3</th>
-            <th></th>
+            <th>做周练五|写博客</th>
+            <th>1</th>
+            <th>这个时候不可以</th>
         </tr>
         <tr>
             <th>12:00-12:30</th>
-            <th></th>
-            <th>3</th>
-            <th></th>
+            <th>吃饭</th>
+            <th>2</th>
+            <th>中规中矩</th>
         </tr>
         <tr>
             <th>12:30-13:00</th>
-            <th></th>
-            <th>3</th>
-            <th></th>
+            <th>散步|写记录</th>
+            <th>2</th>
+            <th>舒服</th>
         </tr>
         <tr>
             <th>13:00-13:30</th>
-            <th></th>
-            <th>5</th>
-            <th></th>
+            <th>写记录|写信息</th>
+            <th>3</th>
+            <th>记录超时</th>
         </tr>
         <tr>
             <th>13:30-14:00</th>
@@ -244,6 +244,7 @@
 <p>盼望着，盼望着，东风来了，春天的脚步近了。<br>
                         ——朱自清《春》</p>
 </blockquote>
+<p>    春天来了，希望疫情快点结束吧。wo看的不是花，是希望。</p>
 <p><img src="https://lamb-hyj.github.io/lamb.github.io/post-images/1584668080272.jpg" alt="" loading="lazy"><br>
 <img src="https://lamb-hyj.github.io/lamb.github.io/post-images/1584668112230.jpg" alt="" loading="lazy"><br>
 <img src="https://lamb-hyj.github.io/lamb.github.io/post-images/1584668131601.jpg" alt="" loading="lazy"><br>
@@ -262,7 +263,7 @@
                         ——朱自清《春》</p>
 </blockquote>
 <p>    PS：如果你对本次“春游”的其他照片感兴趣，请点击以下网址<br>
-    <a href="https://user.qzone.qq.com/916891225/photo/V11qN3rx1zQtEv?source=namecardhoverword">空间相册</a></p>
+    <a href="https://user.qzone.qq.com/916891225/photo/V11qN3rx1zQtEv?source=namecardhoverword">lamb空间相册</a></p>
 ]]></content>
     </entry>
     <entry>
