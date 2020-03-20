@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lamb-hyj.github.io/lamb.github.io</id>
     <title>Lamb&apos;s life</title>
-    <updated>2020-03-19T14:31:07.357Z</updated>
+    <updated>2020-03-20T01:01:09.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lamb-hyj.github.io/lamb.github.io"/>
     <link rel="self" href="https://lamb-hyj.github.io/lamb.github.io/atom.xml"/>
@@ -10,6 +10,32 @@
     <logo>https://lamb-hyj.github.io/lamb.github.io/images/avatar.png</logo>
     <icon>https://lamb-hyj.github.io/lamb.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Lamb&apos;s life</rights>
+    <entry>
+        <title type="html"><![CDATA["春游"]]></title>
+        <id>https://lamb-hyj.github.io/lamb.github.io/post/chun-you/</id>
+        <link href="https://lamb-hyj.github.io/lamb.github.io/post/chun-you/">
+        </link>
+        <updated>2020-03-20T00:45:42.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<!--
+    可能要用到的代码
+    &emsp;                     空格，占一个汉字
+    &thinsp;                    细空格   6*&thinsp; ≈&emsp;
+    <strong></strong> 加粗
+    <br>                         换行标签
+-->
+<blockquote>
+<p>盼望着，盼望着，东风来了，春天的脚步近了。<br>
+                        ——朱自清《春》</p>
+</blockquote>
+<blockquote>
+<p>春天像刚落地的娃娃，从头到脚都是新的，它生长着。<br>
+春天像小姑娘，花枝招展的笑着走着。<br>
+春天像健壮的青年，有铁一般的胳膊和腰脚，领着我们向前去。<br>
+                        ——朱自清《春》</p>
+</blockquote>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20.03.19|交织]]></title>
         <id>https://lamb-hyj.github.io/lamb.github.io/post/200319oraa/</id>

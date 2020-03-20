@@ -5,7 +5,7 @@
 <meta name="description" content="" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>
-    Lamb&#39;s life
+    &#34;春游&#34; | Lamb&#39;s life
 </title>
 <link rel="shortcut icon" href="https://lamb-hyj.github.io/lamb.github.io/favicon.ico?v=1584666056425">
 <!-- <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous"> -->
@@ -19,6 +19,7 @@
 <script src="https://cdn.bootcss.com/moment.js/2.23.0/moment.min.js"></script>
 
 
+        
 </head>
 
 <body>
@@ -93,21 +94,93 @@
     });
 </script>
 
-            <div class="tags-container main-container">
-                <div class="tags-group">
+            <div id="main-content" class="post-detail main-container">
+                <!-- left -->
+                <div id="content" class="main-container-left">
+                    <article class="post i-card">
+                        <h2 class="post-title">
+                            &#34;春游&#34;
+                        </h2>
+                        <div class="post-info">
+                            <time class="post-time">2020-03-20</time>
+                            
+                        </div>
+                        
+                                <div class="post-content">
+                                    <!-- more -->
+<!--
+    可能要用到的代码
+    &emsp;                     空格，占一个汉字
+    &thinsp;                    细空格   6*&thinsp; ≈&emsp;
+    <strong></strong> 加粗
+    <br>                         换行标签
+-->
+<blockquote>
+<p>盼望着，盼望着，东风来了，春天的脚步近了。<br>
+                        ——朱自清《春》</p>
+</blockquote>
+<blockquote>
+<p>春天像刚落地的娃娃，从头到脚都是新的，它生长着。<br>
+春天像小姑娘，花枝招展的笑着走着。<br>
+春天像健壮的青年，有铁一般的胳膊和腰脚，领着我们向前去。<br>
+                        ——朱自清《春》</p>
+</blockquote>
+
+                                </div>
+                    </article>
+                    <!--  -->
                     
-                        <a class="tags-tag i-tag
-                            i-tag-" href="https://lamb-hyj.github.io/lamb.github.io/tag/LVDZcfmeP/">
-                            日之记
-                        </a>
+                        <div class="next-post">
+                            <div class="next">下一篇</div>
+                            <a href="https://lamb-hyj.github.io/lamb.github.io/post/200319oraa/">
+                                <h3 class="post-title">
+                                    20.03.19|交织
+                                </h3>
+                            </a>
+                        </div>
                         
-                        <a class="tags-tag i-tag
-                            i-tag-info" href="https://lamb-hyj.github.io/lamb.github.io/tag/Xfnr23f0g/">
-                            Gridea
-                        </a>
-                        
+                            <div id="disqus_thread"></div>
+                            <div id="gitalk-container"></div>
                 </div>
+                <!-- middle -->
+                <div class="main-container-middle"></div>
+                <!-- right -->
+                <div id="sidebar" class="main-container-right">
+                    
+                                <!-- id-card -->
+                                
+    <div class="id_card i-card">
+        <div class="id_card-avatar" style="background-image: url(https://lamb-hyj.github.io/lamb.github.io/images/avatar.png?v=1584666056425)">
+        </div>
+        <h1 class="id_card-title">
+            Lamb&#39;s life
+        </h1>
+        <h2 class="id_card-description">
+            世界灿烂，欢迎回家
+        </h2>
+        <!--  -->
+        <div class="id_card-sns">
+            <!-- github -->
+            
+                    <!-- twitter -->
+                    
+                            <!-- weibo -->
+                            
+                                    <!-- facebook -->
+                                    
+
+        </div>
+    </div>
+    
+                                    
+
+                </div>
+
+
+
+
             </div>
+
 
             <div class="site-footer">
   Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | 
@@ -118,7 +191,15 @@
   hljs.initHighlightingOnLoad()
 </script>
 
+
     </div>
+    <script>
+        $('#sidebar').stickySidebar({
+            topSpacing: 80,
+            // bottomSpacing: 60
+        });
+    </script>
+    
 </body>
 
 </html>
