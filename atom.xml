@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://lamb-hyj.github.io/lamb.github.io</id>
+    <id>http://localhost:4000</id>
     <title>Lamb&apos;s life</title>
-    <updated>2020-03-20T05:02:48.048Z</updated>
+    <updated>2020-03-20T05:15:33.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://lamb-hyj.github.io/lamb.github.io"/>
-    <link rel="self" href="https://lamb-hyj.github.io/lamb.github.io/atom.xml"/>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
     <subtitle>世界灿烂，欢迎回家</subtitle>
-    <logo>https://lamb-hyj.github.io/lamb.github.io/images/avatar.png</logo>
-    <icon>https://lamb-hyj.github.io/lamb.github.io/favicon.ico</icon>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
     <rights>All rights reserved 2020, Lamb&apos;s life</rights>
     <entry>
         <title type="html"><![CDATA[20.03.20|Unnamed]]></title>
-        <id>https://lamb-hyj.github.io/lamb.github.io/post/200320orunnamed/</id>
-        <link href="https://lamb-hyj.github.io/lamb.github.io/post/200320orunnamed/">
+        <id>http://localhost:4000/post/200320orunnamed/</id>
+        <link href="http://localhost:4000/post/200320orunnamed/">
         </link>
         <updated>2020-03-20T02:10:06.000Z</updated>
         <summary type="html"><![CDATA[<p>  天气:多云转晴               Fri    星期五<br>
@@ -226,13 +226,13 @@
     </entry>
     <entry>
         <title type="html"><![CDATA["春游"]]></title>
-        <id>https://lamb-hyj.github.io/lamb.github.io/post/chun-you/</id>
-        <link href="https://lamb-hyj.github.io/lamb.github.io/post/chun-you/">
+        <id>http://localhost:4000/post/chun-you/</id>
+        <link href="http://localhost:4000/post/chun-you/">
         </link>
         <updated>2020-03-20T00:45:42.000Z</updated>
-        <summary type="html"><![CDATA[<p>    3月16日，天暖日朗，lamb走出家门，随手拍下几张，以做纪念。</p>
+        <summary type="html"><![CDATA[<p>    春天来了，希望疫情快点结束吧。看的不是花，是希望。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>    3月16日，天暖日朗，lamb走出家门，随手拍下几张，以做纪念。</p>
+        <content type="html"><![CDATA[<p>    春天来了，希望疫情快点结束吧。看的不是花，是希望。</p>
 <!-- more -->
 <!-- 
     可能要用到的代码
@@ -244,18 +244,18 @@
 <p>盼望着，盼望着，东风来了，春天的脚步近了。<br>
                         ——朱自清《春》</p>
 </blockquote>
-<p>    春天来了，希望疫情快点结束吧。wo看的不是花，是希望。</p>
-<p><img src="https://lamb-hyj.github.io/lamb.github.io/post-images/1584668080272.jpg" alt="" loading="lazy"><br>
-<img src="https://lamb-hyj.github.io/lamb.github.io/post-images/1584668112230.jpg" alt="" loading="lazy"><br>
-<img src="https://lamb-hyj.github.io/lamb.github.io/post-images/1584668131601.jpg" alt="" loading="lazy"><br>
-<img src="https://lamb-hyj.github.io/lamb.github.io/post-images/1584668157071.jpg" alt="" loading="lazy"><br>
-<img src="https://lamb-hyj.github.io/lamb.github.io/post-images/1584668163932.jpg" alt="" loading="lazy"><br>
-<img src="https://lamb-hyj.github.io/lamb.github.io/post-images/1584668182929.jpg" alt="" loading="lazy"><br>
-<img src="https://lamb-hyj.github.io/lamb.github.io/post-images/1584668210857.jpg" alt="" loading="lazy"><br>
-<img src="https://lamb-hyj.github.io/lamb.github.io/post-images/1584668231633.jpg" alt="" loading="lazy"><br>
-<img src="https://lamb-hyj.github.io/lamb.github.io/post-images/1584668260879.jpg" alt="" loading="lazy"><br>
-<img src="https://lamb-hyj.github.io/lamb.github.io/post-images/1584668225443.jpg" alt="" loading="lazy"><br>
-<img src="https://lamb-hyj.github.io/lamb.github.io/post-images/1584668277730.jpg" alt="" loading="lazy"></p>
+<p>    3月16日，天暖日朗，lamb走出家门，随手拍下几张，以做纪念。</p>
+<p><img src="http://localhost:4000/post-images/1584668080272.jpg" alt="" loading="lazy"><br>
+<img src="http://localhost:4000/post-images/1584668112230.jpg" alt="" loading="lazy"><br>
+<img src="http://localhost:4000/post-images/1584668131601.jpg" alt="" loading="lazy"><br>
+<img src="http://localhost:4000/post-images/1584668157071.jpg" alt="" loading="lazy"><br>
+<img src="http://localhost:4000/post-images/1584668163932.jpg" alt="" loading="lazy"><br>
+<img src="http://localhost:4000/post-images/1584668182929.jpg" alt="" loading="lazy"><br>
+<img src="http://localhost:4000/post-images/1584668210857.jpg" alt="" loading="lazy"><br>
+<img src="http://localhost:4000/post-images/1584668231633.jpg" alt="" loading="lazy"><br>
+<img src="http://localhost:4000/post-images/1584668260879.jpg" alt="" loading="lazy"><br>
+<img src="http://localhost:4000/post-images/1584668225443.jpg" alt="" loading="lazy"><br>
+<img src="http://localhost:4000/post-images/1584668277730.jpg" alt="" loading="lazy"></p>
 <blockquote>
 <p>春天像刚落地的娃娃，从头到脚都是新的，它生长着。<br>
 春天像小姑娘，花枝招展的笑着走着。<br>
@@ -268,8 +268,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[20.03.19|交织]]></title>
-        <id>https://lamb-hyj.github.io/lamb.github.io/post/200319oraa/</id>
-        <link href="https://lamb-hyj.github.io/lamb.github.io/post/200319oraa/">
+        <id>http://localhost:4000/post/200319oraa/</id>
+        <link href="http://localhost:4000/post/200319oraa/">
         </link>
         <updated>2020-03-19T00:26:11.000Z</updated>
         <summary type="html"><![CDATA[<p>  天气:雨转阴                Thu   星期四<br>
@@ -298,8 +298,8 @@
   最后：65！！！我裂开来。<br>
   PS:上午还“文思泉涌”，晚上的话就少多了，感受到信息的力量了吗？？秃~</p>
 <p>附件1：今晚大脑状态与今日签运<br>
-<img src="https://lamb-hyj.github.io/lamb.github.io/post-images/1584627657268.jpg" alt="" loading="lazy"><br>
-<img src="https://lamb-hyj.github.io/lamb.github.io/post-images/1584627662141.jpg" alt="" loading="lazy"></p>
+<img src="http://localhost:4000/post-images/1584627657268.jpg" alt="" loading="lazy"><br>
+<img src="http://localhost:4000/post-images/1584627662141.jpg" alt="" loading="lazy"></p>
 <p>附件2：时间表<br>
 (满分100，除特殊说明，每空3分)<br>
 5分时段:<br>
@@ -496,8 +496,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[20.03.18|开始]]></title>
-        <id>https://lamb-hyj.github.io/lamb.github.io/post/200318orkai-shi/</id>
-        <link href="https://lamb-hyj.github.io/lamb.github.io/post/200318orkai-shi/">
+        <id>http://localhost:4000/post/200318orkai-shi/</id>
+        <link href="http://localhost:4000/post/200318orkai-shi/">
         </link>
         <updated>2020-03-18T04:47:30.000Z</updated>
         <summary type="html"><![CDATA[<p>  天气：阴                Wed   星期三<br>
@@ -728,8 +728,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://lamb-hyj.github.io/lamb.github.io/post/hello-gridea/</id>
-        <link href="https://lamb-hyj.github.io/lamb.github.io/post/hello-gridea/">
+        <id>http://localhost:4000/post/hello-gridea/</id>
+        <link href="http://localhost:4000/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<!--动态线条背景-->
