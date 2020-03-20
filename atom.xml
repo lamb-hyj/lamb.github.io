@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lamb-hyj.github.io/lamb.github.io</id>
     <title>Lamb&apos;s life</title>
-    <updated>2020-03-20T05:19:13.034Z</updated>
+    <updated>2020-03-20T11:00:26.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lamb-hyj.github.io/lamb.github.io"/>
     <link rel="self" href="https://lamb-hyj.github.io/lamb.github.io/atom.xml"/>
@@ -110,74 +110,74 @@
         <tr>
             <th>13:00-13:30</th>
             <th>写记录|写信息</th>
-            <th>3</th>
+            <th>2</th>
             <th>记录超时</th>
         </tr>
         <tr>
             <th>13:30-14:00</th>
-            <th></th>
-            <th>3</th>
-            <th></th>
+            <th>写信息</th>
+            <th>2</th>
+            <th>有bug</th>
         </tr>
         <tr>
             <th>14:00-14:30</th>
-            <th></th>
+            <th>生物课</th>
             <th>3</th>
-            <th></th>
+            <th>有点困</th>
         </tr>
         <tr>
             <th>14:30-15:00</th>
-            <th></th>
+            <th>生物课|课间</th>
             <th>3</th>
-            <th></th>
+            <th>有点困</th>
         </tr>
         <tr>
             <th>15:00-15:30</th>
-            <th></th>
-            <th>3</th>
-            <th></th>
+            <th>睡觉</th>
+            <th>0</th>
+            <th>是的，睡着了</th>
         </tr>
         <tr>
             <th>15:30-16:00</th>
-            <th></th>
+            <th>历史课</th>
             <th>3</th>
-            <th></th>
+            <th>睡完觉很舒服嘛</th>
         </tr>
         <tr>
             <th>16:00-16:30</th>
-            <th></th>
+            <th>历史课</th>
             <th>3</th>
-            <th></th>
+            <th>有认真听</th>
         </tr>
         <tr>
             <th>16:30-17:00</th>
-            <th></th>
+            <th>历史课</th>
             <th>3</th>
-            <th></th>
+            <th>同上↑</th>
         </tr>
         <tr>
             <th>17:00-17:30</th>
-            <th></th>
+            <th>历史课|ppball</th>
             <th>3</th>
-            <th></th>
+            <th>同上↑</th>
         </tr>
         <tr>
             <th>17:30-18:00</th>
-            <th></th>
-            <th>3</th>
-            <th></th>
+            <th>ppball</th>
+            <th>2</th>
+            <th>有点久</th>
         </tr>
         <tr>
             <th>18:00-18:30</th>
-            <th></th>
-            <th>3</th>
-            <th></th>
+            <th>ppball|吃饭</th>
+            <th>1</th>
+            <th>太久了</th>
         </tr>
         <tr>
             <th>18:30-19:00</th>
-            <th></th>
+            <th>吃饭|写记录</th>
             <th>3</th>
-            <th></th>
+            <th>还行吧</th>
         </tr>
         <tr>
             <th>19:00-19:30</th>
