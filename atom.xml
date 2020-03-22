@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lamb-hyj.github.io/lamb.github.io</id>
     <title>Lamb&apos;s life</title>
-    <updated>2020-03-22T13:48:00.009Z</updated>
+    <updated>2020-03-22T14:08:33.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lamb-hyj.github.io/lamb.github.io"/>
     <link rel="self" href="https://lamb-hyj.github.io/lamb.github.io/atom.xml"/>
@@ -10,6 +10,59 @@
     <logo>https://lamb-hyj.github.io/lamb.github.io/images/avatar.png</logo>
     <icon>https://lamb-hyj.github.io/lamb.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Lamb&apos;s life</rights>
+    <entry>
+        <title type="html"><![CDATA[20.03.22|周计划]]></title>
+        <id>https://lamb-hyj.github.io/lamb.github.io/post/200322orzhou-ji-hua/</id>
+        <link href="https://lamb-hyj.github.io/lamb.github.io/post/200322orzhou-ji-hua/">
+        </link>
+        <updated>2020-03-22T13:49:20.000Z</updated>
+        <summary type="html"><![CDATA[<p>20.03.23~20.03.30计划</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>20.03.23~20.03.30计划</p>
+<!-- more -->
+<!--
+    可能要用到的代码
+    &emsp;                     空格，占一个汉字
+    &thinsp;                    细空格   6*&thinsp; ≈&emsp;
+    <strong></strong> 加粗
+    <br>                         换行标签
+-->
+<p>新的一周开始了，要有点计划</p>
+<table><tbody>
+        <tr>
+            <th align="center" width="270" >周一</th>
+            <th align="center" width="270" >周二</th>
+            <th align="center" width="270" >周三</th>
+            <th align="center" width="270" >周四</th>
+            <th align="center" width="270" >周五</th>
+        </tr>
+        <tr>
+            <th>语文《师说》</th>
+            <th>化学必修一专题一</th>
+            <th>英语单词U1</th>
+            <th>语文文化常识</th>
+            <th>生物必修一5、6单元</th>
+        </tr>
+        <tr>
+            <th>补语文练习册文言文</th>
+            <th>补数学练习册</th>
+            <th>补英语练习册U3</th>
+            <th>数学必修五整理</th>
+            <th>补语文练习册现代文</th>
+        </tr>
+</table>
+<p>周一完成情况：<br>
+    未知。<br>
+周二完成情况：<br>
+    未知。<br>
+周三完成情况：<br>
+    未知。<br>
+周四完成情况：<br>
+    未知。<br>
+周五完成情况：<br>
+    未知。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20.03.22|废日]]></title>
         <id>https://lamb-hyj.github.io/lamb.github.io/post/200322orxx/</id>
