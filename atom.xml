@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lamb-hyj.github.io/lamb.github.io</id>
     <title>Lamb&apos;s life</title>
-    <updated>2020-03-23T04:57:40.026Z</updated>
+    <updated>2020-03-23T15:02:36.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lamb-hyj.github.io/lamb.github.io"/>
     <link rel="self" href="https://lamb-hyj.github.io/lamb.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://lamb-hyj.github.io/lamb.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Lamb&apos;s life</rights>
     <entry>
-        <title type="html"><![CDATA[20.03.23|无题]]></title>
+        <title type="html"><![CDATA[20.03.23|脚步？进步]]></title>
         <id>https://lamb-hyj.github.io/lamb.github.io/post/xx/</id>
         <link href="https://lamb-hyj.github.io/lamb.github.io/post/xx/">
         </link>
@@ -29,9 +29,15 @@
     <strong></strong> 加粗
     <br>                         换行标签
 -->
-<p>  <em><strong>今日得分:XX</strong></em></p>
+<blockquote>
+<p>未来，总是会来的。</p>
+</blockquote>
+<p>  <em><strong>今日得分:79</strong></em></p>
 <p>  一大早，困啊！想背书，背一句睡五分钟QWQ。<br>
-  边吃边听语文课，语文老师情场高手，受不了就换一个，什么鬼呢？？？听完语文老师评价摄影，默默地想改了wo的标签(<s>明明我只是还没学好</s>)，但是发现不会改呢。物理考试迅速水过，果然是水过，粗心错了好几题(<s>该死的呢</s>)。想起十几天前的Noip Online,也是不明所以，明明我可以100的，怎么只有40？？</p>
+  边吃边听语文课，语文老师情场高手，受不了就换一个，什么鬼呢？？？听完语文老师评价摄影，默默地想改了wo的标签(<s>明明我只是还没学好</s>)，但是发现不会改呢。物理考试迅速水过，果然是水过，粗心错了好几题(<s>该死的呢</s>)。想起十几天前的Noip Online,也是不明所以，明明我可以100的，怎么只有40？？中午的travel这一题也是醉了，搞错啦！！！！英语提前发现有录播，就提前上课啦。但是居然拖课？我明明倍速播放，还超了？？？而且有的单词根本听不出来，怎么办？<br>
+  然后研究了老半天的树形DP，要气疯了，最后终于得到了升华，奇妙的知识增加了。晚上的效率还是不错，但还是在数学上卡了好一会，看来几何不简单QAQ。<br>
+  79！！！差点上80啦，难道是我太松？不管，有进步，冲冲冲！！！<br>
+  明天一定要加油，否则：<img src="https://lamb-hyj.github.io/lamb.github.io/post-images/1584975654661.jpg" alt="" loading="lazy"></p>
 <p>附：时间表<br>
 (满分100，除特殊说明，每空3分)<br>
 5分时段:<br>
@@ -111,123 +117,123 @@
         </tr>
         <tr>
             <th>13:00-13:30</th>
-            <th>信息/th>
-            <th>5</th>
-            <th></th>
+            <th>信息</th>
+            <th>3(5)</th>
+            <th>搞错啦</th>
         </tr>
         <tr>
             <th>13:30-14:00</th>
-            <th>信息|预习</th>
+            <th>信息|英语课</th>
             <th>3</th>
-            <th></th>
+            <th>提前上课</th>
         </tr>
         <tr>
             <th>14:00-14:30</th>
-            <th>上课</th>
+            <th>英语课</th>
             <th>3</th>
-            <th></th>
+            <th>认真</th>
         </tr>
         <tr>
             <th>14:30-15:00</th>
-            <th>上课|眼保健操，记录</th>
-            <th>3</th>
-            <th></th>
+            <th>英语课</th>
+            <th>2</th>
+            <th>听不清鸭</th>
         </tr>
         <tr>
             <th>15:00-15:30</th>
-            <th>上课</th>
-            <th>3</th>
-            <th></th>
+            <th>英语课</th>
+            <th>2</th>
+            <th>同上↑</th>
         </tr>
         <tr>
             <th>15:30-16:00</th>
-            <th>眼保健操|补作业</th>
-            <th>3</th>
-            <th></th>
+            <th>英语课|休息</th>
+            <th>2</th>
+            <th>同上↑</th>
         </tr>
         <tr>
             <th>16:00-16:30</th>
-            <th>上课</th>
-            <th>3</th>
-            <th></th>
+            <th>信息</th>
+            <th>2</th>
+            <th>搞不懂啊</th>
         </tr>
         <tr>
             <th>16:30-17:00</th>
-            <th>上课|课间眼保健操，记录</th>
+            <th>信息</th>
             <th>3</th>
-            <th></th>
+            <th>知识升华了呢</th>
         </tr>
         <tr>
             <th>17:00-17:30</th>
-            <th>上课</th>
-            <th>3</th>
-            <th></th>
+            <th>信息|ppball</th>
+            <th>2</th>
+            <th>怎么可以ppball？</th>
         </tr>
         <tr>
             <th>17:30-18:00</th>
-            <th>眼保健操|补作业</th>
-            <th>3</th>
-            <th></th>
+            <th>ppball|吃饭</th>
+            <th>2</th>
+            <th>同上↑</th>
         </tr>
         <tr>
             <th>18:00-18:30</th>
             <th>吃饭</th>
             <th>3</th>
-            <th></th>
+            <th>挺快的呢</th>
         </tr>
         <tr>
             <th>18:30-19:00</th>
             <th>英语仿写</th>
             <th>3</th>
-            <th></th>
+            <th>其实是作业</th>
         </tr>
         <tr>
             <th>19:00-19:30</th>
-            <th>英语仿写|作业</th>
-            <th>3</th>
-            <th></th>
+            <th>英语仿写</th>
+            <th>2</th>
+            <th>超了</th>
         </tr>
         <tr>
             <th>19:30-20:00</th>
-            <th>作业</th>
-            <th>3</th>
-            <th></th>
+            <th>英语仿写|英语作业</th>
+            <th>2</th>
+            <th>同上↑</th>
         </tr>
         <tr>
             <th>20:00-20:30</th>
-            <th>作业</th>
-            <th>5</th>
-            <th></th>
+            <th>英语默写</th>
+            <th>5(5)</th>
+            <th>背单词ing</th>
         </tr>
         <tr>
             <th>20:30-21:00</th>
-            <th>作业</th>
-            <th>5</th>
-            <th></th>
+            <th>英语默写|不要62</th>
+            <th>3(5)</th>
+            <th>超时</th>
         </tr>
         <tr>
             <th>21:00-21:30</th>
-            <th>作业</th>
-            <th>5</th>
-            <th></th>
+            <th>不要62|数学练习册</th>
+            <th>3(5)</th>
+            <th>什么鬼bug</th>
         </tr>
         <tr>
             <th>21:30-22:00</th>
-            <th>作业</th>
+            <th>数学练习册</th>
             <th>5</th>
-            <th></th>
+            <th>冲鸭</th>
         </tr>
         <tr>
             <th>22:00-睡觉</th>
-            <th>记录|背书</th>
-            <th>3</th>
-            <th></th>
+            <th>数学练习册|写记录</th>
+            <th>1</th>
+            <th>卡了，而且没背书</th>
         </tr>
 </table>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20.03.22|周计划]]></title>
+        <title type="html"><![CDATA[20.02.23|周计划]]></title>
         <id>https://lamb-hyj.github.io/lamb.github.io/post/200322orzhou-ji-hua/</id>
         <link href="https://lamb-hyj.github.io/lamb.github.io/post/200322orzhou-ji-hua/">
         </link>
@@ -268,7 +274,7 @@
         </tr>
 </table>
 <p>周一完成情况：<br>
-    未知。<br>
+    背诵计划get。but少量语文练习册。<br>
 周二完成情况：<br>
     未知。<br>
 周三完成情况：<br>
