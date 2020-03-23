@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lamb-hyj.github.io/lamb.github.io</id>
     <title>Lamb&apos;s life</title>
-    <updated>2020-03-22T14:11:52.888Z</updated>
+    <updated>2020-03-23T04:57:40.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lamb-hyj.github.io/lamb.github.io"/>
     <link rel="self" href="https://lamb-hyj.github.io/lamb.github.io/atom.xml"/>
@@ -10,6 +10,222 @@
     <logo>https://lamb-hyj.github.io/lamb.github.io/images/avatar.png</logo>
     <icon>https://lamb-hyj.github.io/lamb.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Lamb&apos;s life</rights>
+    <entry>
+        <title type="html"><![CDATA[20.03.23|无题]]></title>
+        <id>https://lamb-hyj.github.io/lamb.github.io/post/xx/</id>
+        <link href="https://lamb-hyj.github.io/lamb.github.io/post/xx/">
+        </link>
+        <updated>2020-03-23T01:42:56.000Z</updated>
+        <summary type="html"><![CDATA[<p>  天气:阴                Mon   星期一<br>
+  农历二月三十  春分</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>  天气:阴                Mon   星期一<br>
+  农历二月三十  春分</p>
+<!-- more -->
+<!--
+    可能要用到的代码
+    &emsp;                     空格，占一个汉字
+    &thinsp;                    细空格   6*&thinsp; ≈&emsp;
+    <strong></strong> 加粗
+    <br>                         换行标签
+-->
+<p>  <em><strong>今日得分:XX</strong></em></p>
+<p>  一大早，困啊！想背书，背一句睡五分钟QWQ。<br>
+  边吃边听语文课，语文老师情场高手，受不了就换一个，什么鬼呢？？？听完语文老师评价摄影，默默地想改了wo的标签(<s>明明我只是还没学好</s>)，但是发现不会改呢。物理考试迅速水过，果然是水过，粗心错了好几题(<s>该死的呢</s>)。想起十几天前的Noip Online,也是不明所以，明明我可以100的，怎么只有40？？</p>
+<p>附：时间表<br>
+(满分100，除特殊说明，每空3分)<br>
+5分时段:<br>
+13:00~13:30    20:00-20:30  20:30-21:00  21:00-21:30  21:30-22:00</p>
+<table><tbody>
+        <tr>
+            <th align="center" width="150" >时间</th>
+            <th align="center" width="450" >事件</th>
+            <th align="center" width="80" >得分</th>
+            <th align="center" width="270" >备注</th>
+        </tr>
+        <tr>
+            <th>7:30-8:00</th>
+            <th>背书|起床</th>
+            <th>2</th>
+            <th>困，没背多少</th>
+        </tr>
+        <tr>
+            <th>8:00-8:30</th>
+            <th>吃饭|语文课</th>
+            <th>3</th>
+            <th>认真听讲</th>
+        </tr>
+        <tr>
+            <th>8:30-9:00</th>
+            <th>语文课|课间眼保健操</th>
+            <th>3</th>
+            <th>没写记录</th>
+        </tr>
+        <tr>
+            <th>9:00-9:30</th>
+            <th>语文课|语文练习册</th>
+            <th>3</th>
+            <th>补了一点练习册</th>
+        </tr>
+        <tr>
+            <th>9:30-10:00</th>
+            <th>眼保健操|背书</th>
+            <th>3</th>
+            <th>背了个大概</th>
+        </tr>
+        <tr>
+            <th>10:00-10:30</th>
+            <th>物理考试</th>
+            <th>3</th>
+            <th>快快快</th>
+        </tr>
+        <tr>
+            <th>10:30-11:00</th>
+            <th>物理考试</th>
+            <th>3</th>
+            <th>水水水</th>
+        </tr>
+        <tr>
+            <th>11:00-11:30</th>
+            <th>物理考试</th>
+            <th>2</th>
+            <th>粗心QAQ</th>
+        </tr>
+        <tr>
+            <th>11:30-12:00</th>
+            <th>给cx打电话|吃饭</th>
+            <th>1</th>
+            <th>有点浪费时间了</th>
+        </tr>
+        <tr>
+            <th>12:00-12:30</th>
+            <th>吃饭|ppball</th>
+            <th>3</th>
+            <th>吃的挺快</th>
+        </tr>
+        <tr>
+            <th>12:30-13:00</th>
+            <th>ppball|写记录</th>
+            <th>2</th>
+            <th>打久了</th>
+        </tr>
+        <tr>
+            <th>13:00-13:30</th>
+            <th>信息/th>
+            <th>5</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>13:30-14:00</th>
+            <th>信息|预习</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>14:00-14:30</th>
+            <th>上课</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>14:30-15:00</th>
+            <th>上课|眼保健操，记录</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>15:00-15:30</th>
+            <th>上课</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>15:30-16:00</th>
+            <th>眼保健操|补作业</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>16:00-16:30</th>
+            <th>上课</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>16:30-17:00</th>
+            <th>上课|课间眼保健操，记录</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>17:00-17:30</th>
+            <th>上课</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>17:30-18:00</th>
+            <th>眼保健操|补作业</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>18:00-18:30</th>
+            <th>吃饭</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>18:30-19:00</th>
+            <th>英语仿写</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>19:00-19:30</th>
+            <th>英语仿写|作业</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>19:30-20:00</th>
+            <th>作业</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>20:00-20:30</th>
+            <th>作业</th>
+            <th>5</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>20:30-21:00</th>
+            <th>作业</th>
+            <th>5</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>21:00-21:30</th>
+            <th>作业</th>
+            <th>5</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>21:30-22:00</th>
+            <th>作业</th>
+            <th>5</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>22:00-睡觉</th>
+            <th>记录|背书</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+</table>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20.03.22|周计划]]></title>
         <id>https://lamb-hyj.github.io/lamb.github.io/post/200322orzhou-ji-hua/</id>
