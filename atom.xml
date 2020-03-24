@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lamb-hyj.github.io/lamb.github.io</id>
     <title>Lamb&apos;s life</title>
-    <updated>2020-03-24T03:56:36.156Z</updated>
+    <updated>2020-03-24T14:41:07.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lamb-hyj.github.io/lamb.github.io"/>
     <link rel="self" href="https://lamb-hyj.github.io/lamb.github.io/atom.xml"/>
@@ -11,16 +11,16 @@
     <icon>https://lamb-hyj.github.io/lamb.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Lamb&apos;s life</rights>
     <entry>
-        <title type="html"><![CDATA[20.03.24|无题]]></title>
+        <title type="html"><![CDATA[20.03.24|尝试与反转]]></title>
         <id>https://lamb-hyj.github.io/lamb.github.io/post/200324orwu-ti/</id>
         <link href="https://lamb-hyj.github.io/lamb.github.io/post/200324orwu-ti/">
         </link>
         <updated>2020-03-24T00:13:33.000Z</updated>
-        <summary type="html"><![CDATA[<p>  天气:X                XXX   星期X<br>
-  农历X月X  XX</p>
+        <summary type="html"><![CDATA[<p>  天气:阴转雷雨转阴                Tue   星期二<br>
+  农历三月初一  春分</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>  天气:X                XXX   星期X<br>
-  农历X月X  XX</p>
+        <content type="html"><![CDATA[<p>  天气:阴转雷雨转阴                Tue   星期二<br>
+  农历三月初一  春分</p>
 <!-- more -->
 <!--
     可能要用到的代码
@@ -29,9 +29,20 @@
     <strong></strong> 加粗
     <br>                         换行标签
 -->
-<p>  <em><strong>今日得分:XX</strong></em></p>
+<blockquote>
+<p>You must try things that may not work.<br>
+不怕失败，勇于尝试。<br>
+                    ——网易有道</p>
+</blockquote>
+<p>  <em><strong>今日得分:80</strong></em></p>
 <p>  早上睡得超级舒服的吧。<br>
-  好久没听燕姐的课了，开心O(∩_∩)O~~(讲的就是好hhh)。生物课都没有补作业，不爽。结果好像还地震了一下，吓死我了呢......</p>
+  好久没听燕姐的课了，开心O(∩_∩)O~~(讲的就是好hhh)。生物课都没有补作业，不爽。结果好像还地震了一下，吓死我了呢......中午的蛏真的......无话可说。写了一题简简单单的，结果出了什么莫名其妙的bug？政治课开始，只能暂时放过它。化学课边上课边做事情，错过了想听的题，不过倒是把琐碎的事搞完了。吃饭之前，居然解决了bug，下次一定要改一改觉得不可能的东西。hhh冲冲冲，好吃的wowei(芋粿？)。<br>
+  晚上难得按时完成英语仿写，O(∩_∩)O~~。开始干数学练习册，but(重要事情说三遍)：<br>
+  圆的面积是πr^2!!!周长才是2πr!!!<br>
+  圆的面积是πr^2!!!周长才是2πr!!!<br>
+  圆的面积是πr^2!!!周长才是2πr!!!<br>
+  生物练习册很可惜没有补完，可是吃到了拌面，吃吃吃！！！<br>
+  终于上80了，hhhhh。不过可能还是下手软了点，明天狠点！！！</p>
 <p>附：时间表<br>
 (满分100，除特殊说明，每空3分)<br>
 5分时段:<br>
@@ -46,7 +57,7 @@
         <tr>
             <th>7:30-8:00</th>
             <th>起床|吃饭</th>
-            <th>2</th>
+            <th>1</th>
             <th>没背书鸭？</th>
         <tr>
             <th>8:00-8:30</th>
@@ -99,128 +110,128 @@
         <tr>
             <th>12:00-12:30</th>
             <th>吃饭</th>
-            <th>3</th>
-            <th></th>
+            <th>2</th>
+            <th>窒息蛏</th>
         </tr>
         <tr>
             <th>12:30-13:00</th>
-            <th>ppball</th>
-            <th>3</th>
-            <th></th>
+            <th>散步|信息</th>
+            <th>1</th>
+            <th>干了什么？</th>
         </tr>
         <tr>
             <th>13:00-13:30</th>
-            <th>信息/th>
+            <th>信息</th>
             <th>5</th>
-            <th></th>
+            <th>有点效率嘛</th>
         </tr>
         <tr>
             <th>13:30-14:00</th>
-            <th>信息|预习</th>
-            <th>3</th>
-            <th></th>
+            <th>信息</th>
+            <th>2</th>
+            <th>诡异的bug</th>
         </tr>
         <tr>
             <th>14:00-14:30</th>
-            <th>上课</th>
+            <th>政治课</th>
             <th>3</th>
-            <th></th>
+            <th>听不懂怎么办</th>
         </tr>
         <tr>
             <th>14:30-15:00</th>
-            <th>上课|眼保健操，记录</th>
+            <th>政治课|课间</th>
             <th>3</th>
-            <th></th>
+            <th>同上↑</th>
         </tr>
         <tr>
             <th>15:00-15:30</th>
-            <th>上课</th>
+            <th>政治课</th>
             <th>3</th>
-            <th></th>
+            <th>终于好些了</th>
         </tr>
         <tr>
             <th>15:30-16:00</th>
-            <th>眼保健操|补作业</th>
-            <th>3</th>
-            <th></th>
+            <th>补笔记</th>
+            <th>2</th>
+            <th>没补作业呢</th>
         </tr>
         <tr>
             <th>16:00-16:30</th>
-            <th>上课</th>
-            <th>3</th>
-            <th></th>
+            <th>化学课</th>
+            <th>2</th>
+            <th>边做事情边听课</th>
         </tr>
         <tr>
             <th>16:30-17:00</th>
-            <th>上课|课间眼保健操，记录</th>
+            <th>化学课|课间</th>
             <th>3</th>
-            <th></th>
+            <th>背了点东西</th>
         </tr>
         <tr>
             <th>17:00-17:30</th>
-            <th>上课</th>
+            <th>化学课</th>
             <th>3</th>
-            <th></th>
+            <th>只做了一点点题</th>
         </tr>
         <tr>
             <th>17:30-18:00</th>
-            <th>眼保健操|补作业</th>
+            <th>信息|吃饭</th>
             <th>3</th>
-            <th></th>
+            <th>这诡异的bug终于解决了</th>
         </tr>
         <tr>
             <th>18:00-18:30</th>
             <th>吃饭</th>
             <th>3</th>
-            <th></th>
+            <th>wowei(芋粿？)好吃</th>
         </tr>
         <tr>
             <th>18:30-19:00</th>
             <th>英语仿写</th>
             <th>3</th>
-            <th></th>
+            <th>赶上了</th>
         </tr>
         <tr>
             <th>19:00-19:30</th>
-            <th>英语仿写|作业</th>
+            <th>英语仿写</th>
             <th>3</th>
-            <th></th>
+            <th>按时完成啦</th>
         </tr>
         <tr>
             <th>19:30-20:00</th>
-            <th>作业</th>
+            <th>数学练习册</th>
             <th>3</th>
-            <th></th>
+            <th>挺快的</th>
         </tr>
         <tr>
             <th>20:00-20:30</th>
-            <th>作业</th>
+            <th>数学练习册</th>
             <th>5</th>
-            <th></th>
+            <th>同上↑</th>
         </tr>
         <tr>
             <th>20:30-21:00</th>
-            <th>作业</th>
-            <th>5</th>
-            <th></th>
+            <th>数学练习册|休息</th>
+            <th>3(5)</th>
+            <th>有点慢了</th>
         </tr>
         <tr>
             <th>21:00-21:30</th>
-            <th>作业</th>
-            <th>5</th>
-            <th></th>
+            <th>生物练习册</th>
+            <th>4(5)</th>
+            <th>搞错啦</th>
         </tr>
         <tr>
             <th>21:30-22:00</th>
-            <th>作业</th>
-            <th>5</th>
-            <th></th>
+            <th>生物练习册|拌面|和松、宫羽聊天</th>
+            <th>3(5)</th>
+            <th>有点慢</th>
         </tr>
         <tr>
             <th>22:00-睡觉</th>
             <th>记录|背书</th>
-            <th>3</th>
-            <th></th>
+            <th>2</th>
+            <th>没写完生物</th>
         </tr>
 </table>]]></content>
     </entry>
