@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lamb-hyj.github.io/lamb.github.io</id>
     <title>Lamb&apos;s life</title>
-    <updated>2020-03-25T01:31:41.086Z</updated>
+    <updated>2020-03-25T07:53:05.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lamb-hyj.github.io/lamb.github.io"/>
     <link rel="self" href="https://lamb-hyj.github.io/lamb.github.io/atom.xml"/>
@@ -10,6 +10,220 @@
     <logo>https://lamb-hyj.github.io/lamb.github.io/images/avatar.png</logo>
     <icon>https://lamb-hyj.github.io/lamb.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Lamb&apos;s life</rights>
+    <entry>
+        <title type="html"><![CDATA[20.03.25|无题]]></title>
+        <id>https://lamb-hyj.github.io/lamb.github.io/post/200325orwu-ti/</id>
+        <link href="https://lamb-hyj.github.io/lamb.github.io/post/200325orwu-ti/">
+        </link>
+        <updated>2020-03-25T03:36:30.000Z</updated>
+        <summary type="html"><![CDATA[<p>  天气:X                XXX   星期X<br>
+  农历X月X  XX</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>  天气:X                XXX   星期X<br>
+  农历X月X  XX</p>
+<!-- more -->
+<!--
+    可能要用到的代码
+    &emsp;                     空格，占一个汉字
+    &thinsp;                    细空格   6*&thinsp; ≈&emsp;
+    <strong></strong> 加粗
+    <br>                         换行标签
+-->
+<p>  <em><strong>今日得分:XX</strong></em></p>
+<p>附：时间表<br>
+(满分100，除特殊说明，每空3分)<br>
+5分时段:<br>
+13:00~13:30    20:00-20:30  20:30-21:00  21:00-21:30  21:30-22:00</p>
+<table><tbody>
+        <tr>
+            <th align="center" width="150" >时间</th>
+            <th align="center" width="450" >事件</th>
+            <th align="center" width="80" >得分</th>
+            <th align="center" width="270" >备注</th>
+        </tr>
+        <tr>
+            <th>7:30-8:00</th>
+            <th>起床|吃饭</th>
+            <th>1</th>
+            <th>没背书鸭</th>
+        </tr>
+        <tr>
+            <th>8:00-8:30</th>
+            <th>数学课</th>
+            <th>2</th>
+            <th>又是燕姐的课呢</th>
+        </tr>
+        <tr>
+            <th>8:30-9:00</th>
+            <th>数学课</th>
+            <th>2</th>
+            <th>同上↑</th>
+        </tr>
+        <tr>
+            <th>9:00-9:30</th>
+            <th>数学课</th>
+            <th>3</th>
+            <th>同上↑<</th>
+        </tr>
+        <tr>
+            <th>9:30-10:00</th>
+            <th>背书</th>
+            <th>1</th>
+            <th>前20min干了什么？</th>
+        </tr>
+        <tr>
+            <th>10:00-10:30</th>
+            <th>语文考试</th>
+            <th>2</th>
+            <th>不记得了</th>
+        </tr>
+        <tr>
+            <th>10:30-11:00</th>
+            <th>语文考试</th>
+            <th>2</th>
+            <th>同上↑</th>
+        </tr>
+        <tr>
+            <th>11:00-11:30</th>
+            <th>语文考试</th>
+            <th>2</th>
+            <th>同上↑</th>
+        </tr>
+        <tr>
+            <th>11:30-12:00</th>
+            <th>写记录|吃饭</th>
+            <th>2</th>
+            <th>有人骚扰</th>
+        </tr>
+        <tr>
+            <th>12:00-12:30</th>
+            <th>吃饭</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>12:30-13:00</th>
+            <th>ppball</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>13:00-13:30</th>
+            <th>信息</th>
+            <th>5</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>13:30-14:00</th>
+            <th>信息|预习</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>14:00-14:30</th>
+            <th>上课</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>14:30-15:00</th>
+            <th>上课|眼保健操，记录</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>15:00-15:30</th>
+            <th>上课</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>15:30-16:00</th>
+            <th>眼保健操|补作业</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>16:00-16:30</th>
+            <th>上课</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>16:30-17:00</th>
+            <th>上课|课间眼保健操，记录</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>17:00-17:30</th>
+            <th>上课</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>17:30-18:00</th>
+            <th>眼保健操|补作业</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>18:00-18:30</th>
+            <th>吃饭</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>18:30-19:00</th>
+            <th>英语仿写</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>19:00-19:30</th>
+            <th>英语仿写|作业</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>19:30-20:00</th>
+            <th>作业</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>20:00-20:30</th>
+            <th>作业</th>
+            <th>5</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>20:30-21:00</th>
+            <th>作业</th>
+            <th>5</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>21:00-21:30</th>
+            <th>作业</th>
+            <th>5</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>21:30-22:00</th>
+            <th>作业</th>
+            <th>5</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>22:00-睡觉</th>
+            <th>记录|背书</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+</table>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20.03.24|尝试与反转]]></title>
         <id>https://lamb-hyj.github.io/lamb.github.io/post/200324orwu-ti/</id>
@@ -493,7 +707,7 @@
         <tr>
             <th>补语文练习册文言文</th>
             <th>补数学练习册</th>
-            <th>补英语练习册U3</th>
+            <th>补英语练习册U1U2</th>
             <th>数学必修五整理</th>
             <th>补语文练习册现代文</th>
         </tr>
@@ -1750,92 +1964,6 @@
             <th>英语仿写太久了</th>
         </tr>
 </table>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://lamb-hyj.github.io/lamb.github.io/post/hello-gridea/</id>
-        <link href="https://lamb-hyj.github.io/lamb.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<!--动态线条背景-->
-<script type="text/javascript"
-color="122 103 238" opacity='0.7' zIndex="-2" count="200" src="//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js">
-</script>
-<!-- weather
-<div id="weather-view-he"></div>
-<script>
-WIDGET = {ID: '306rjWiSde'};
-</script>
-<script type="text/javascript" src="https://apip.weatherdt.com/view/static/js/r.js?v=1111"></script> -->
-<p>开发者这么棒，一个人也不容易，特地置顶宣传一下啦~</p>
-]]></summary>
-        <content type="html"><![CDATA[<!--动态线条背景-->
-<script type="text/javascript"
-color="122 103 238" opacity='0.7' zIndex="-2" count="200" src="//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js">
-</script>
-<!-- weather
-<div id="weather-view-he"></div>
-<script>
-WIDGET = {ID: '306rjWiSde'};
-</script>
-<script type="text/javascript" src="https://apip.weatherdt.com/view/static/js/r.js?v=1111"></script> -->
-<p>开发者这么棒，一个人也不容易，特地置顶宣传一下啦~</p>
-<!-- more -->
-<h2 id="welcome">Welcome</h2>
-<p>😆  欢迎使用 <em><strong>Gridea</strong></em> ！<br>
-✍️  <em><strong>Gridea</strong></em> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...<br>
-<a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="feature">Feature</h2>
-<ol>
-<li>
-<p>你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-</li>
-<li>
-<p>你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-</li>
-<li>
-<p>你可以对文章进行标签分组</p>
-</li>
-<li>
-<p>你可以自定义菜单，甚至可以创建外部链接菜单</p>
-</li>
-<li>
-<p>你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-</li>
-<li>
-<p>你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-</li>
-<li>
-<p>你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-</li>
-<li>
-<p>你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-</li>
-<li>
-<p>你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-</li>
-<li>
-<p>你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-</li>
-</ol>
-<h2 id="future">Future</h2>
-<p>当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>Enjoy~</p>
-<p>PS:</p>
-<ol>
-<li>本文经过lamb稍微改动,官方不要介意啦(<s>不会的</s>)</li>
-<li>可能用到的网页:<br>
-<a href="https://www.luogu.com.cn/blog/luogu/how-to-use-markdown">洛谷Markdown使用手册</a><br>
-<a href="https://yq.aliyun.com/articles/742964?spm=a2c4e.11155472.0.0.65437baeTNS7YR">博客搭建教程</a><br>
-<a href="https://less.bootcss.com/">JavaScript教程</a><br>
-<a href="https://less.bootcss.com/">Less快速入门</a><br>
-<a href="https://www.jianshu.com/p/6ed2f9fb6197">ejs</a></li>
-</ol>
 ]]></content>
     </entry>
 </feed>
