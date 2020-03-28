@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lamb-hyj.github.io/lamb.github.io</id>
     <title>Lamb&apos;s life</title>
-    <updated>2020-03-27T15:01:36.925Z</updated>
+    <updated>2020-03-28T14:37:46.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lamb-hyj.github.io/lamb.github.io"/>
     <link rel="self" href="https://lamb-hyj.github.io/lamb.github.io/atom.xml"/>
@@ -11,16 +11,243 @@
     <icon>https://lamb-hyj.github.io/lamb.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Lamb&apos;s life</rights>
     <entry>
+        <title type="html"><![CDATA[20.03.28|教训]]></title>
+        <id>https://lamb-hyj.github.io/lamb.github.io/post/200328orjiao-xun/</id>
+        <link href="https://lamb-hyj.github.io/lamb.github.io/post/200328orjiao-xun/">
+        </link>
+        <updated>2020-03-28T14:07:37.000Z</updated>
+        <summary type="html"><![CDATA[<p>  天气:阴               Sat   星期六<br>
+  农历三月初五  春分</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>  天气:阴               Sat   星期六<br>
+  农历三月初五  春分</p>
+<!-- more -->
+<!--
+    可能要用到的代码
+    &emsp;                     空格，占一个汉字
+    &thinsp;                    细空格   6*&thinsp; ≈&emsp;
+    <strong></strong> 加粗
+    <br>                         换行标签
+-->
+<blockquote>
+<p>“历史给人的唯一教训，就是人们从未在历史中吸取过任何教训”<br>
+                    ——黑格尔</p>
+</blockquote>
+<p>  <em><strong>今日得分:64</strong></em></p>
+<p>  啊！！分数怎么不变？！！！？？？<br>
+  早上wo真的睡了好久.....数学练习册也不知道为什么做了那么久......还好止损，换了物理.......中午的信息明明就是一道水题，怎么搞的，输入这么就有问题了？？？<br>
+  下午做了好久的生物？？？？？？<br>
+  树状数组真的要累si我了（<s>还是太弱</s>）吃完饭居然瞬间看懂？？？可我的区间修改+区间查询为什么WA了3个点？？？？？？放弃....<br>
+  物理周练还是做得很快的，明天也要加油鸭！！要吸取教训呢.....</p>
+<blockquote>
+<p>There must be a good reason for our suffering.<br>
+苦尽则甘来。                    ——网易有道</p>
+</blockquote>
+<p>附：时间表<br>
+(满分100，除特殊说明，每空3分)<br>
+5分时段:<br>
+13:00~13:30    20:00-20:30  20:30-21:00  21:00-21:30  21:30-22:00</p>
+<table><tbody>
+        <tr>
+            <th align="center" width="150" >时间</th>
+            <th align="center" width="450" >事件</th>
+            <th align="center" width="80" >得分</th>
+            <th align="center" width="270" >备注</th>
+        </tr>
+        <tr>
+            <th>7:30-8:00</th>
+            <th>起床</th>
+            <th>1</th>
+            <th>使劲睡</th>
+        </tr>
+        <tr>
+            <th>8:00-8:30</th>
+            <th>起床|吃饭</th>
+            <th>1</th>
+            <th>有点晚</th>
+        </tr>
+        <tr>
+            <th>8:30-9:00</th>
+            <th>吃饭|数学练习册</th>
+            <th>2</th>
+            <th>效率不知为何有点低</th>
+        </tr>
+        <tr>
+            <th>9:00-9:30</th>
+            <th>数学练习册</th>
+            <th>2</th>
+            <th>同上↑<</th>
+        </tr>
+        <tr>
+            <th>9:30-10:00</th>
+            <th>数学练习册</th>
+            <th>1</th>
+            <th>同上↑</th>
+        </tr>
+        <tr>
+            <th>10:00-10:30</th>
+            <th>数学练习册</th>
+            <th>2</th>
+            <th>同上↑</th>
+        </tr>
+        <tr>
+            <th>10:30-11:00</th>
+            <th>数学练习册|物理周四课后作业</th>
+            <th>2</th>
+            <th>同上↑</th>
+        </tr>
+        <tr>
+            <th>11:00-11:30</th>
+            <th>物理周四课后作业</th>
+            <th>2</th>
+            <th>效率还可</th>
+        </tr>
+        <tr>
+            <th>11:30-12:00</th>
+            <th>物理周四课后作业|吃饭</th>
+            <th>2</th>
+            <th>同上↑</th>
+        </tr>
+        <tr>
+            <th>12:00-12:30</th>
+            <th>吃饭</th>
+            <th>3</th>
+            <th>还行吧</th>
+        </tr>
+        <tr>
+            <th>12:30-13:00</th>
+            <th>信息</th>
+            <th>3</th>
+            <th>搞什么？</th>
+        </tr>
+        <tr>
+            <th>13:00-13:30</th>
+            <th>信息</th>
+            <th>3(5)</th>
+            <th>同上↑</th>
+        </tr>
+        <tr>
+            <th>13:30-14:00</th>
+            <th>信息</th>
+            <th>1</th>
+            <th>明明是水题</th>
+        </tr>
+        <tr>
+            <th>14:00-14:30</th>
+            <th>不知所措|数学练习册</th>
+            <th>1</th>
+            <th>效率不知为何有点低</th>
+        </tr>
+        <tr>
+            <th>14:30-15:00</th>
+            <th>数学练习册</th>
+            <th>3</th>
+            <th>蓝屏！！！</th>
+        </tr>
+        <tr>
+            <th>15:00-15:30</th>
+            <th>生物练习册</th>
+            <th>3</th>
+            <th>有亿点点久</th>
+        </tr>
+        <tr>
+            <th>15:30-16:00</th>
+            <th>生物练习册</th>
+            <th>1</th>
+            <th>同上↑</th>
+        </tr>
+        <tr>
+            <th>16:00-16:30</th>
+            <th>生物练习册</th>
+            <th>2</th>
+            <th>同上↑</th>
+        </tr>
+        <tr>
+            <th>16:30-17:00</th>
+            <th>生物练习册</th>
+            <th>2</th>
+            <th>同上↑</th>
+        </tr>
+        <tr>
+            <th>17:00-17:30</th>
+            <th>运动</th>
+            <th>2</th>
+            <th>还可</th>
+        </tr>
+        <tr>
+            <th>17:30-18:00</th>
+            <th>运动|信息</th>
+            <th>1</th>
+            <th>QAQ</th>
+        </tr>
+        <tr>
+            <th>18:00-18:30</th>
+            <th>信息|吃饭</th>
+            <th>2</th>
+            <th>有点慢(划</th>
+        </tr>
+        <tr>
+            <th>18:30-19:00</th>
+            <th>吃饭|信息</th>
+            <th>2</th>
+            <th>顿悟？？</th>
+        </tr>
+        <tr>
+            <th>19:00-19:30</th>
+            <th>信息</th>
+            <th>3</th>
+            <th>同上↑</th>
+        </tr>
+        <tr>
+            <th>19:30-20:00</th>
+            <th>信息</th>
+            <th>2</th>
+            <th>同上↑</th>
+        </tr>
+        <tr>
+            <th>20:00-20:30</th>
+            <th>信三息体</th>
+            <th>3(5)</th>
+            <th>是的，混了</th>
+        </tr>
+        <tr>
+            <th>20:30-21:00</th>
+            <th>信三息体</th>
+            <th>2(5)</th>
+            <th>有点不认真</th>
+        </tr>
+        <tr>
+            <th>21:00-21:30</th>
+            <th>信息|物理周练</th>
+            <th>4(5)</th>
+            <th>一丢丢的粗心</th>
+        </tr>
+        <tr>
+            <th>21:30-22:00</th>
+            <th>物理周练|问问题</th>
+            <th>4(5)</th>
+            <th>同上↑</th>
+        </tr>
+        <tr>
+            <th>22:00-睡觉</th>
+            <th>写记录</th>
+            <th>2</th>
+            <th>凉</th>
+        </tr>
+</table>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[20.03.27|数星星]]></title>
         <id>https://lamb-hyj.github.io/lamb.github.io/post/200327orxx/</id>
         <link href="https://lamb-hyj.github.io/lamb.github.io/post/200327orxx/">
         </link>
         <updated>2020-03-27T14:34:18.000Z</updated>
         <summary type="html"><![CDATA[<p>  天气:阴               Fri   星期五<br>
-  农历三月初五  春分</p>
+  农历三月初四  春分</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>  天气:阴               Fri   星期五<br>
-  农历三月初五  春分</p>
+  农历三月初四  春分</p>
 <!-- more -->
 <!--
     可能要用到的代码
@@ -41,7 +268,7 @@
   小问号，你是否有很多朋友？？？？<br>
   一拖拖到12：30？？表面上说上不完给下一个老师上，实际上说我不上完周练做不了，你们就没有周末作业了(<s>误</s>)。<br>
   下午的历史考试根本没写大题，结果它要求上传一张图片？？？？我心一慌，接着灵机一动，上传了选择题hhhhhhhh。晚上发现我朵出新歌了？？？hhh好逗得歌，听着听着就笑了呢？<br>
-  但今天的重点是我数了一天的星星？？？？数星星怎么用线段树啊？？？？太难了，还好我没放弃，终于好像解决了(<s>是的只是好像</s>)。但不管怎样，有了一点点的升华~</p>
+  但今天的重点是我数了一天的星星？？？？数星星怎么用树状数组啊？？？？太难了，还好我没放弃，终于好像解决了(<s>是的只是好像</s>)。但不管怎样，有了一点点的升华~</p>
 <p>附：时间表<br>
 (满分100，除特殊说明，每空3分)<br>
 5分时段:<br>
@@ -243,10 +470,10 @@
         </link>
         <updated>2020-03-26T13:42:02.000Z</updated>
         <summary type="html"><![CDATA[<p>  天气:阴转雷                Thu   星期四<br>
-  农历三月初四  春分</p>
+  农历三月初三  春分</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>  天气:阴转雷                Thu   星期四<br>
-  农历三月初四  春分</p>
+  农历三月初三  春分</p>
 <!-- more -->
 <!--
     可能要用到的代码
@@ -1921,48 +2148,6 @@
 </table>
 <p>PS:本文部分文本引用自网络，感谢原文作者@每次只懂一点点，原文链接如下：<br>
 <a href="https://mini.eastday.com/a/200307143057376.html">必看的4部生命纪录片：病毒是大自然的自保</a></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["春游"]]></title>
-        <id>https://lamb-hyj.github.io/lamb.github.io/post/chun-you/</id>
-        <link href="https://lamb-hyj.github.io/lamb.github.io/post/chun-you/">
-        </link>
-        <updated>2020-03-20T00:45:42.000Z</updated>
-        <summary type="html"><![CDATA[<p>    春天来了，希望疫情快点结束吧。&quot;春游&quot;看的不是花，是希望。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>    春天来了，希望疫情快点结束吧。&quot;春游&quot;看的不是花，是希望。</p>
-<!-- more -->
-<!-- 
-    可能要用到的代码
-    &emsp;                     空格，占一个汉字
-    &thinsp;                    细空格   6*&thinsp; ≈&emsp;
-    <strong></strong> 加粗
-    <br>                         换行标签 -->
-<blockquote>
-<p>盼望着，盼望着，东风来了，春天的脚步近了。<br>
-                        ——朱自清《春》</p>
-</blockquote>
-<p>    3月16日，天暖日朗，lamb走出家门，随手拍下几张，以做纪念。</p>
-<p><img src="https://lamb-hyj.github.io/lamb.github.io/post-images/1584668080272.jpg" alt="" loading="lazy"><br>
-<img src="https://lamb-hyj.github.io/lamb.github.io/post-images/1584668112230.jpg" alt="" loading="lazy"><br>
-<img src="https://lamb-hyj.github.io/lamb.github.io/post-images/1584668131601.jpg" alt="" loading="lazy"><br>
-<img src="https://lamb-hyj.github.io/lamb.github.io/post-images/1584668157071.jpg" alt="" loading="lazy"><br>
-<img src="https://lamb-hyj.github.io/lamb.github.io/post-images/1584668163932.jpg" alt="" loading="lazy"><br>
-<img src="https://lamb-hyj.github.io/lamb.github.io/post-images/1584668182929.jpg" alt="" loading="lazy"><br>
-<img src="https://lamb-hyj.github.io/lamb.github.io/post-images/1584668210857.jpg" alt="" loading="lazy"><br>
-<img src="https://lamb-hyj.github.io/lamb.github.io/post-images/1584668231633.jpg" alt="" loading="lazy"><br>
-<img src="https://lamb-hyj.github.io/lamb.github.io/post-images/1584668260879.jpg" alt="" loading="lazy"><br>
-<img src="https://lamb-hyj.github.io/lamb.github.io/post-images/1584668225443.jpg" alt="" loading="lazy"><br>
-<img src="https://lamb-hyj.github.io/lamb.github.io/post-images/1584668277730.jpg" alt="" loading="lazy"></p>
-<blockquote>
-<p>春天像刚落地的娃娃，从头到脚都是新的，它生长着。<br>
-春天像小姑娘，花枝招展的笑着走着。<br>
-春天像健壮的青年，有铁一般的胳膊和腰脚，领着我们向前去。<br>
-                        ——朱自清《春》</p>
-</blockquote>
-<p>    PS：如果你对本次“春游”的其他照片感兴趣，请点击以下网址<br>
-    <a href="https://user.qzone.qq.com/916891225/photo/V11qN3rx1zQtEv?source=namecardhoverword">lamb空间相册</a></p>
 ]]></content>
     </entry>
 </feed>
