@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lamb-hyj.github.io/lamb.github.io</id>
     <title>Lamb&apos;s life</title>
-    <updated>2020-03-29T14:45:58.915Z</updated>
+    <updated>2020-03-30T15:02:27.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lamb-hyj.github.io/lamb.github.io"/>
     <link rel="self" href="https://lamb-hyj.github.io/lamb.github.io/atom.xml"/>
@@ -10,6 +10,32 @@
     <logo>https://lamb-hyj.github.io/lamb.github.io/images/avatar.png</logo>
     <icon>https://lamb-hyj.github.io/lamb.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Lamb&apos;s life</rights>
+    <entry>
+        <title type="html"><![CDATA[20.03.30|对称]]></title>
+        <id>https://lamb-hyj.github.io/lamb.github.io/post/200330orwu-ti/</id>
+        <link href="https://lamb-hyj.github.io/lamb.github.io/post/200330orwu-ti/">
+        </link>
+        <updated>2020-03-30T00:44:55.000Z</updated>
+        <summary type="html"><![CDATA[<p>  天气:雨                Mon   星期一<br>
+  农历三月初七  春分</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>  天气:雨                Mon   星期一<br>
+  农历三月初七  春分</p>
+<!-- more -->
+<!--
+    可能要用到的代码
+    &emsp;                     空格，占一个汉字
+    &thinsp;                    细空格   6*&thinsp; ≈&emsp;
+    <strong></strong> 加粗
+    <br>                         换行标签
+-->
+<p>  今天没有得分没有时间表，空荡荡......<br>
+  只想记录雨夜趣事<br>
+  记录200330 03300202<br>
+<img src="https://lamb-hyj.github.io/lamb.github.io/post-images/1585580424489.jpg" alt="" loading="lazy"></p>
+<p>  PS：很明显左边好看呢~</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[周计划]]></title>
         <id>https://lamb-hyj.github.io/lamb.github.io/post/zhou-ji-hua/</id>
@@ -55,7 +81,7 @@
         </tr>
 </table>
 <p>周一完成情况：<br>
-    未知<br>
+    FAILED......<br>
 周二完成情况：<br>
     未知<br>
 周三完成情况：<br>
@@ -1682,283 +1708,6 @@
             <th>累了</th>
         </tr>
 </table>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20.03.21|遗憾的美]]></title>
-        <id>https://lamb-hyj.github.io/lamb.github.io/post/200321orwu-ti/</id>
-        <link href="https://lamb-hyj.github.io/lamb.github.io/post/200321orwu-ti/">
-        </link>
-        <updated>2020-03-21T05:41:51.000Z</updated>
-        <summary type="html"><![CDATA[<p>  天气:晴转阴               Sat    星期六<br>
-  农历二月廿八  春分</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>  天气:晴转阴               Sat    星期六<br>
-  农历二月廿八  春分</p>
-<!-- more -->
-<!--
-    可能要用到的代码
-    &emsp;                     空格，占一个汉字
-    &thinsp;                    细空格   6*&thinsp; ≈&emsp;
-    <strong></strong> 加粗
-    <br>                         换行标签
--->
-<p>  <em><strong>今日得分:52</strong></em></p>
-<p>  又是一个周末，我总是雄心勃勃，然而，wo栽了......<br>
-  是的，不及格。<br>
-  今天真的只看了亿点点的资讯，叹气~树形DP要把我气si了呢，好在最后研究出了一点。<br>
-  晚上家里来了小朋友，玩的我腿都要断了，“神兽”真的不是浪得虚名啊！！累了，写不动了。就这样吧。今天真是遗憾的一天呢~</p>
-<p>PS：刷了那么多资讯，还是有点收获的。极限鸡汤预警！！！请经深思熟虑再选择是否进入餐桌！！<br>
-把鸡汤送给自己。(痛饮鸡汤需了解一点2020中国乒乓球队的信息)</p>
-<blockquote>
-<p>在新冠疫情的影响下，<br>
-如果东奥推迟到明年举行，<br>
-那对于现在的国乒选手来说，机遇是冰火两重天，<br>
-四大元老级选手马龙、许昕、丁宁、刘诗雯的职业生涯会因为各种原因，<br>
-如年龄、如伤病、如状态等方面，<br>
-很有可能坚持不了这么长的时间，会选择退役。<br>
-这样，他们将有可能不会参加东奥会。<br>
-其实，这些元老选手不参加东奥会，<br>
-对于他们自己来说表面上是很残酷的，<br>
-但是，塞翁失马，焉知非福，对他们来说何尝不是一件好事，<br>
-从目前他们的状态来说，<br>
-未来在东奥会上要想成就梦想，<br>
-实事求是地讲已经很困难了，<br>
-马龙自伤病归来之后，就没有拿到过冠军了，<br>
-既输给了外协会选手张本智和与林昀儒，<br>
-也输给了队友樊振东、许昕和王楚钦等人，<br>
-可以说优势越来越小，<br>
-而许昕虽然夺得了德国公开赛冠军，<br>
-但关键时刻掉链子的毛病依然存在，<br>
-在卡塔尔公开赛的四强战中输给英国选手皮特，<br>
-而且八强战中赢下法国选手西蒙·高茨也相当艰难，<br>
-而丁宁的状态更是江河日下，<br>
-快两年的时间那是一冠难求，<br>
-刘诗雯虽然连夺2019年世乒赛和世界杯冠军，<br>
-一时风光无限，成就大满贯只有一步之遥，<br>
-看来大器晚成就在咫尺，<br>
-但她在其它赛场上同样是一冠难求，<br>
-尤其是进入2020年，<br>
-伤病的影响已让她无法正常参赛，<br>
-而且实力已大打折扣，<br>
-对决朱雨玲只拿到17分就是最显著的证明，<br>
-所以说，东京奥运会刘诗雯即使获得单打资格，<br>
-但要想成就梦想只能说是理想很丰满，现实很骨感。<br>
-但是，如果东奥会推迟到明年举行，<br>
-这四位元老级选手就有可能退出东奥会，<br>
-这样，对于他们的职业生涯来说是带着遗憾画下句号，<br>
-但正是这种遗憾才是另外一种美，这种美就是遗憾美，<br>
-在多年以后，我们谈论起东奥会，会不得不提起他们，<br>
-会谈论起如果东奥会不推迟，<br>
-马龙、丁宁就有可能成就双满贯，<br>
-刘诗雯有可能成就大满贯，<br>
-许昕很有可能开启大满贯之路，<br>
-这种美丽的遗憾永远会停留在人们各种美好的回味之中，<br>
-这难道不是一种美吗？<br>
-总被现实击碎这种美要强许多，<br>
-毕竟，他们四人有任何一人成就梦想在现实中已是非常困难了，<br>
-几乎是不可能了，<br>
-更何况，东奥会乒乓球比赛即使只有他们四人参加，<br>
-那也只有两人成就梦想。<br>
-所以，遗憾那也是一种另外的美，<br>
-无论是自己，还是别人，<br>
-在未来都可以说当年如果，会引来各种美妙的猜测。<br>
-                    ——东方资讯</p>
-</blockquote>
-<p>附：时间表<br>
-(满分100，除特殊说明，每空3分)<br>
-5分时段:<br>
-13:00~13:30    20:00-20:30  20:30-21:00  21:00-21:30  21:30-22:00</p>
-<table><tbody>
-        <tr>
-            <th align="center" width="150" >时间</th>
-            <th align="center" width="450" >事件</th>
-            <th align="center" width="80" >得分</th>
-            <th align="center" width="270" >备注</th>
-        </tr>
-        <tr>
-            <th>7:30-8:00</th>
-            <th>赖床|吃饭</th>
-            <th>1</th>
-            <th>起晚了</th>
-        </tr>
-        <tr>
-            <th>8:00-8:30</th>
-            <th>吃饭</th>
-            <th>2</th>
-            <th>有点慢</th>
-        </tr>
-        <tr>
-            <th>8:30-9:00</th>
-            <th>吃饭|洗碗</th>
-            <th>1</th>
-            <th>太久了</th>
-        </tr>
-        <tr>
-            <th>9:00-9:30</th>
-            <th>资讯</th>
-            <th>0</th>
-            <th>只看了亿点点</th>
-        </tr>
-        <tr>
-            <th>9:30-10:00</th>
-            <th>资讯</th>
-            <th>0</th>
-            <th>同上↑</th>
-        </tr>
-        <tr>
-            <th>10:00-10:30</th>
-            <th>资讯|数学周练</th>
-            <th>1</th>
-            <th>总算开始做作业了</th>
-        </tr>
-        <tr>
-            <th>10:30-11:00</th>
-            <th>数学周练</th>
-            <th>3</th>
-            <th>有认真做呢</th>
-        </tr>
-        <tr>
-            <th>11:00-11:30</th>
-            <th>数学周练</th>
-            <th>3</th>
-            <th>同上↑</th>
-        </tr>
-        <tr>
-            <th>11:30-12:00</th>
-            <th>数学周练|吃饭</th>
-            <th>3</th>
-            <th>同上↑</th>
-        </tr>
-        <tr>
-            <th>12:00-12:30</th>
-            <th>吃饭|ppball</th>
-            <th>2</th>
-            <th>吃的有点久呐</th>
-        </tr>
-        <tr>
-            <th>12:30-13:00</th>
-            <th>ppball</th>
-            <th>2</th>
-            <th>打的有点久</th>
-        </tr>
-        <tr>
-            <th>13:00-13:30</th>
-            <th>ppball|资讯</th>
-            <th>0(5)</th>
-            <th>亿点点...</th>
-        </tr>
-        <tr>
-            <th>13:30-14:00</th>
-            <th>资讯|写记录</th>
-            <th>0</th>
-            <th>同上↑</th>
-        </tr>
-        <tr>
-            <th>14:00-14:30</th>
-            <th>数学周练</th>
-            <th>3</th>
-            <th>终于开始写作业了</th>
-        </tr>
-        <tr>
-            <th>14:30-15:00</th>
-            <th>数学周练|资讯|写记录</th>
-            <th>1</th>
-            <th>效率有点低，而且又看资讯</th>
-        </tr>
-        <tr>
-            <th>15:00-15:30</th>
-            <th>研究树形DP</th>
-            <th>0</th>
-            <th>没研究出什么</th>
-        </tr>
-        <tr>
-            <th>15:30-16:00</th>
-            <th>研究树形DP</th>
-            <th>1</th>
-            <th>同上↑</th>
-        </tr>
-        <tr>
-            <th>16:00-16:30</th>
-            <th>研究树形DP</th>
-            <th>2</th>
-            <th>有点东西了</th>
-        </tr>
-        <tr>
-            <th>16:30-17:00</th>
-            <th>研究树形DP</th>
-            <th>3</th>
-            <th>学到了一个方法</th>
-        </tr>
-        <tr>
-            <th>17:00-17:30</th>
-            <th>运动</th>
-            <th>3</th>
-            <th>好累(划掉)</th>
-        </tr>
-        <tr>
-            <th>17:30-18:00</th>
-            <th>运动</th>
-            <th>1</th>
-            <th>只能算是在玩了</th>
-        </tr>
-        <tr>
-            <th>18:00-18:30</th>
-            <th>吃饭</th>
-            <th>3</th>
-            <th>汤好喝</th>
-        </tr>
-        <tr>
-            <th>18:30-19:00</th>
-            <th>照顾小朋友</th>
-            <th>0</th>
-            <th>心累</th>
-        </tr>
-        <tr>
-            <th>19:00-19:30</th>
-            <th>照顾小朋友</th>
-            <th>0</th>
-            <th>腿要断了</th>
-        </tr>
-        <tr>
-            <th>19:30-20:00</th>
-            <th>照顾小朋友</th>
-            <th>0</th>
-            <th>同上↑</th>
-        </tr>
-        <tr>
-            <th>20:00-20:30</th>
-            <th>资讯|物理周练</th>
-            <th>2(5)</th>
-            <th>栽在资讯上了</th>
-        </tr>
-        <tr>
-            <th>20:30-21:00</th>
-            <th>物理周练</th>
-            <th>5</th>
-            <th>终于认真了</th>
-        </tr>
-        <tr>
-            <th>21:00-21:30</th>
-            <th>物理周练</th>
-            <th>5</th>
-            <th>同上↑</th>
-        </tr>
-        <tr>
-            <th>21:30-22:00</th>
-            <th>物理周练|交作业(逛空间)</th>
-            <th>3(5)</th>
-            <th>太慢了</th>
-        </tr>
-        <tr>
-            <th>22:00-睡觉</th>
-            <th>写记录</th>
-            <th>2</th>
-            <th>有点久呐</th>
-        </tr>
-</table>
-<p>PS:本文部分文本引用自网络，感谢原文作者@丁征宇TB，原文链接如下：<br>
-<a href="https://mini.eastday.com/a/200321120507352.html?qid=02160">东奥会如果推迟到明年举办，谁最有可能创造乒坛最大奇迹</a></p>
 ]]></content>
     </entry>
 </feed>
